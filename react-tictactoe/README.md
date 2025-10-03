@@ -1,16 +1,31 @@
-# React + Vite
+# 🎮 Tic-Tac-Toe (React + Vite + MUI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Tic-Tac-Toe game built with React, Vite, and Material UI (MUI).  
+The game supports score tracking, game reset, and a responsive UI.  
+Deployed on GitHub Pages and Netlify.  
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- GitHub Pages: https://ahinasiyad123.github.io/tic-tac-toe/
+- Netlify:http://tic-tac-toe-ahina.netlify.app
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Features
+- 🎯 Classic Tic-Tac-Toe gameplay  
+- 🏆 Score tracking for X and O  
+- 🔄 Reset game button  
+- 📱 Responsive UI with Material UI  
+- 🌐 Deployed on GitHub Pages and Netlify  
+
+---
+
+## ⚡ Tech Stack
+- [React](https://react.dev/) (with Hooks)  
+- [Vite](https://vitejs.dev/)  
+- [Material UI](https://mui.com/)  
+- [gh-pages](https://www.npmjs.com/package/gh-pages) (for GitHub Pages deployment)  
+- [Netlify](https://www.netlify.com/) (for deployment)  
+

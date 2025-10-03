@@ -2,7 +2,8 @@
   "name": "react-tictactoe",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/react-tictactoe",
+  "type": "module",
+  "homepage": "https://ahinasiyad123.github.io/tic-tac-toe",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
